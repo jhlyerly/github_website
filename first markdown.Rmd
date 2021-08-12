@@ -43,3 +43,5 @@ will use this for automation
 #rmarkdown::render(input = "first markdown.Rmd", output_format = c("html_document", "word_document"), output_file = c("my_html_document.html", "their_word.docx"))
 
 ```
+
+Also edit this file. Working to get these files up.
